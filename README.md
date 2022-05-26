@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sl20137
 - 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning Calculus
-- 💞️ I’m looking to help develop Stockfish
+- 🌱 I’m currently learning about Calculus
+- 💞️ I’m looking to help develop Stockfish in the future
 - 📫 How to reach me: Send an email at sethlauhc@sina.com
 
 <!---
