@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sl20137 and my name is Seth
 - 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning about Calculus
+- 🌱 I’m currently learning about Calculus and Chess
 - 💞️ I’m looking to help develop Stockfish in the future
 - 📫 How to reach me: Send an email at sethlauhc@sina.com
 
