@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sl20137
+- 👋 Hi, I’m @sl20137 and my name is Seth
 - 👀 I’m interested in Mathematics
 - 🌱 I’m currently learning about Calculus
 - 💞️ I’m looking to help develop Stockfish in the future
