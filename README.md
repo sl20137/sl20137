@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sl20137
-- 👀 I’m interested in Mathematics
+- 👀 I’m interested in Mathematics and Programming
 - 🌱 I’m currently learning about Calculus and Chess
 - 💞️ I’m looking to help develop Stockfish in the future
 
